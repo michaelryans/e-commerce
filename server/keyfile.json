@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avid-streamer-236605",
+  "private_key_id": "e92d47b581eec5d0a14fcb7a6f5c38cb45341e3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtKATWIoqLI0yd\nzvVsGkCLCIp1hCVvzY3K6KTb0kTxJf2kSRYvMyD0vrA410TvyC9wGwuaUciVv+M8\noIEeFN794obyQYMBihRZV6xqc8p3TtSXPG80ZTIeS1vuH0jjHXp/lK5qxxpuHhmh\nFp3LkUPhtcONCm8rikoAZJXh0B3/E6TelcGnddx8ufX5BpFX+Fvi0GR9QuF+blF/\nq1QxKawK4eUPxx1YYFbKtQZWU0vnntwXP4AGp7zdwhS/tARCGNOuy5CUFxnNW8E0\nIWHHEFlSqQLXe6HABtj800z7Ve34PV6aaRiCG1WcC8OsdEzvHZhqSX3HLpap7NS3\n9asmvNFXAgMBAAECggEAAne9iee4Hb+FCgK3ELFXFiQrBP27ItrFGI00PEXE4cLu\n2HaKMGYEJDjLfiPjQZ+SvYBFLA/aUfgIHwcSkAEwJGIkFjPE0DLNk3Bibqnzyrt+\n4CDmXNLMYg4k40Hi4gm7gzH1QmRQBh27s8YEva/2TbMvdEUfzHkOEO9eC3fR1Z7G\nCTCvozPcS0UFi5k16F1ns1cHYAYxcvlmlU1TZfG2hUEjPtAO5/YMB5Wt83+HvUJg\net9IBUitDniyWhabcOfq8GGB16OVLpicqkmPT2SLfqDtoOciUjHRWj/tMWi4zwam\n+55gLYBMlEZ+ditZVPawkPe2jxlgKgqv+39+xWiwgQKBgQDgscJy243PqJMA9ZNI\nuMIKqzZ8pI+ectauRJhlEH05XdWpBjJTYdXsl93fPxe/tTpw54WHX54dZDVfRkzd\nwWEfBRtQIVxsU/Gw9ms9ssN9jPBfGFnSCVxW55rt3XjCBcDEeKJWnxPoZocadqL0\nEXgoO5Fzb9RUtYEq4ul5qVsYIQKBgQDFSAlZymZE+0Kw3oPdS4duEQdYe6DEpNmK\nXrsIi0OeQ+QUlQKAgGu4JB6LFbrvM3TvgOwovMYagDIIlRjjwiBzWPvW4irUWJR5\nyxSJx5hDmtjpaWgw7OXV75foV/6NC010yAz67mj7B7mh5u6JkXF9bseE6S+zlnLI\ner261cladwKBgQCohmqzPtzT/TmUpJu9FWXkHpoVTk+xpaxCtIwgcQea+TgBN/aS\n93Q9qYHtqSKk1MZqXBuYdyzeGoS1WsLYJ+wyGeBsbzkkvqkt8wRoGCXrisPWbysf\nD4pEXB2lflDOJQZ51Yjcsx95VTzLqmN574hRlKv5Cs0UY7Xndp1qdI0wQQKBgHQe\nnZpjXuT1e+C9aKJl5ZYsocU8J3n3ijA+6Bn0Vt2eGm7e8nUOodjmMbAuHzTSdd7P\nZLHpwzUwBcM1d0wAJLegRcPKpekNJn+1wCYE/KO2Tjy9FV3O4s2U1DYnLSZ546J8\nad99Wv9/IY2hbwA8Qq/Q99FMrA4p3PASBwEk+vqrAoGAKO6OwUd/fbimOjiG9TZC\nN2qafxNb7gxJo/VJn1exz6uCCxNKm50kUnqEXuDPaYVoyeDIySvFwmoPQQ8D54Jd\nM4hk3ZuT3NxLjUISt15JGCCPP6tNOrNuJbgtOMJpYabXLHmvoMPuaOMISAo4InN+\nUdvzkukjWLlUDq9pxoKkbNw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mini-wp@avid-streamer-236605.iam.gserviceaccount.com",
+  "client_id": "115815594403765024409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mini-wp%40avid-streamer-236605.iam.gserviceaccount.com"
+}
